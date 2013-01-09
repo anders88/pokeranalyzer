@@ -12,5 +12,5 @@
 	)
 
 (defn compare-hands[a b]
-	0
+	(compare (highest-card-value a) (highest-card-value b))
 	)
