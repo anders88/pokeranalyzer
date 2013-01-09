@@ -1,6 +1,6 @@
 # pokeranalyzer
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to ... to be decided (work in progress :-))
 
 ## Usage
 
